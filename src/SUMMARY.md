@@ -1,7 +1,6 @@
 # Summary
 
 - [Chapter 1: Introduction](README.md)
-  - [Overview of the book](chapter-1-1.md)
   - [Why using AI for growth hacking is important for small businesses](chapter-1-2.md)
 - [Chapter 2: Understanding AI in Growth Hacking](chapter-2.md)
   - [Historical overview of AI in growth hacking](chapter-2-1.md)
