@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI in Growth Hacking
-=============================================
 
 Artificial Intelligence (AI) is revolutionizing the way small businesses approach growth hacking. In this chapter, we will explore the different types of AI used in growth hacking, as well as how AI works in growth hacking.
 

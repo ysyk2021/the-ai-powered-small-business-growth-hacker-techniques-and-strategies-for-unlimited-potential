@@ -1,5 +1,3 @@
-Overcoming Resistance to Change
-=============================================================================
 
 Implementing Artificial Intelligence (AI) in growth hacking can be met with resistance from employees who may be skeptical about the benefits of AI or concerned about job security. Overcoming this resistance is essential for successful implementation of AI in growth hacking.
 

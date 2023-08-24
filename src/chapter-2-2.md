@@ -1,5 +1,3 @@
-Types of AI in Growth Hacking
-============================================================================
 
 Artificial Intelligence (AI) is a powerful tool for growth hacking, enabling small businesses to optimize their strategies and achieve unlimited potential. In this chapter, we will explore the different types of AI used in growth hacking.
 

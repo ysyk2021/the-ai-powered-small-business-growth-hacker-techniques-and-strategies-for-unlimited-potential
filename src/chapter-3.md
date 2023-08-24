@@ -1,5 +1,3 @@
-Chapter 3: Benefits of AI in Growth Hacking
-===========================================
 
 Artificial Intelligence (AI) can bring many benefits to small businesses looking to improve their growth hacking strategies. In this chapter, we will explore some specific ways in which AI can be used to achieve these benefits.
 

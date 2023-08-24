@@ -1,5 +1,3 @@
-Chapter 7: Managing AI in Growth Hacking
-========================================
 
 As small businesses implement Artificial Intelligence (AI) in growth hacking, managing AI becomes a critical consideration. This includes managing data, ensuring transparency and accountability, and addressing potential bias in AI systems.
 

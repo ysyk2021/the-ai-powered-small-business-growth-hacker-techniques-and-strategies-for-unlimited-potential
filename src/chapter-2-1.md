@@ -1,5 +1,3 @@
-Historical Overview of AI in Growth Hacking
-==========================================================================================
 
 Artificial Intelligence (AI) has been used in growth hacking for decades, but its use has become more widespread and sophisticated in recent years. In this chapter, we will explore the historical evolution of AI in growth hacking.
 

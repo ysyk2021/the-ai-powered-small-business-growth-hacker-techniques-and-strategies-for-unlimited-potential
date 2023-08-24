@@ -1,5 +1,3 @@
-How AI Works in Growth Hacking
-=============================================================================
 
 Artificial Intelligence (AI) is becoming an increasingly important tool for growth hacking, providing small businesses with powerful insights and capabilities. In this chapter, we will explore how AI works in growth hacking.
 

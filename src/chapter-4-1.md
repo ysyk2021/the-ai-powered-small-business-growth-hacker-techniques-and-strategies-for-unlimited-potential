@@ -1,5 +1,3 @@
-Ethical Considerations
-=====================================================================
 
 While AI has the potential to transform small business growth hacking strategies, it also comes with a number of ethical considerations that must be taken into account. In this chapter, we will explore some of the ethical challenges associated with AI in growth hacking.
 

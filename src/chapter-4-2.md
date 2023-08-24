@@ -1,5 +1,3 @@
-Legal Considerations
-===================================================================
 
 The use of AI technology in growth hacking presents a number of legal considerations that businesses must take into account. In this chapter, we will explore some of the key legal considerations related to the use of AI in growth hacking and offer some recommendations for ensuring compliance with relevant laws and regulations.
 

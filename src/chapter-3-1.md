@@ -1,5 +1,3 @@
-Enhanced Decision-Making
-=====================================================================
 
 Artificial Intelligence (AI) can be a powerful tool for small businesses looking to enhance their decision-making capabilities. In this chapter, we will explore some specific ways in which AI can be used to achieve this benefit.
 
