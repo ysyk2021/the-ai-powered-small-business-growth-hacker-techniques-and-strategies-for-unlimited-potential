@@ -10,3 +10,7 @@ Whether you are a small business owner looking to take your company to the next 
 So, what are you waiting for? It's time to harness the power of AI and unlock the unlimited potential of your small business. Let's get started!
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
