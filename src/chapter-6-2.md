@@ -1,5 +1,4 @@
-Chapter: Overcoming Resistance to Change
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the challenges and strategies for overcoming resistance to change when implementing AI-powered growth hacking techniques in small businesses. Resistance to change is a natural human reaction, but it can impede progress and hinder business growth. Therefore, we will delve into various approaches that small businesses can adopt to overcome resistance to change and reap the benefits of AI-powered growth hacking.
 

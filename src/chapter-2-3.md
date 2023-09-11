@@ -1,5 +1,4 @@
-Chapter: How AI Works in Growth Hacking
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the inner workings of AI and explore how it operates within the realm of growth hacking. Understanding the underlying mechanisms and processes of AI technology is crucial for small businesses aiming to harness its power for unlimited potential.
 

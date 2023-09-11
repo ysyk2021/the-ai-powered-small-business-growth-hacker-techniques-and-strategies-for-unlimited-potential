@@ -1,5 +1,4 @@
-Chapter: Ethical Considerations
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ethical considerations that small businesses need to address when implementing AI-powered growth hacking techniques. As AI technology becomes increasingly powerful and pervasive, it is essential for small businesses to prioritize ethical practices and ensure that their growth hacking strategies align with societal values and legal obligations.
 

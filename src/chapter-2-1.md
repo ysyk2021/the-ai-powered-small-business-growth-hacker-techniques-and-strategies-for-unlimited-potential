@@ -1,5 +1,4 @@
-Chapter: Historical Overview of AI in Growth Hacking
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the historical evolution of AI in growth hacking and its impact on small businesses. Over the years, AI technology has played an increasingly significant role in helping businesses drive growth, optimize marketing strategies, and enhance customer experiences. Understanding the historical context of AI in growth hacking provides valuable insights into its development and potential for unlimited potential.
 
